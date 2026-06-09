@@ -17,6 +17,9 @@ Built using FastAPI, FAISS, Sentence Transformers, Gemini LLMs, and React.
 ### Landing Page
 
 ![Landing Page](screenshots/landing.png)
+![Landing Page](screenshots/landing1.png)
+![Landing Page](screenshots/landing2.png)
+![Landing Page](screenshots/landing3.png)
 
 ### Upload PDF
 
