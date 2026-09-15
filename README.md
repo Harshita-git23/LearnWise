@@ -1,4 +1,4 @@
-# PDFMind AI
+# LearnWise
 
 An AI-powered study copilot that transforms PDFs into interactive learning experiences.
 
